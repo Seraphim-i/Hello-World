@@ -1,2 +1,5 @@
 # Hello-World
-Git repository test.
+
+Hello!
+
+This is my first projcet.
